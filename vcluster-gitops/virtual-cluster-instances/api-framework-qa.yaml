@@ -14,4 +14,4 @@ spec:
   parameters: |
     env: qa
     k8sVersion: v1.31.6
-    sleepAfter: "30"
+    sleepAfter: "60"
